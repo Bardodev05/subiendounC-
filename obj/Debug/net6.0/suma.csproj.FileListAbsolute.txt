@@ -1,0 +1,14 @@
+C:\Users\ander\Desktop\vs.uni\suma\suma\obj\Debug\net6.0\suma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\vs.uni\suma\suma\obj\Debug\net6.0\suma.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\vs.uni\suma\suma\obj\Debug\net6.0\suma.AssemblyInfo.cs
+C:\Users\ander\Desktop\vs.uni\suma\suma\obj\Debug\net6.0\suma.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\vs.uni\suma\suma\bin\Debug\net6.0\suma.exe
+C:\Users\ander\Desktop\vs.uni\suma\suma\bin\Debug\net6.0\suma.deps.json
+C:\Users\ander\Desktop\vs.uni\suma\suma\bin\Debug\net6.0\suma.runtimeconfig.json
+C:\Users\ander\Desktop\vs.uni\suma\suma\bin\Debug\net6.0\suma.dll
+C:\Users\ander\Desktop\vs.uni\suma\suma\bin\Debug\net6.0\suma.pdb
+C:\Users\ander\Desktop\vs.uni\suma\suma\obj\Debug\net6.0\suma.dll
+C:\Users\ander\Desktop\vs.uni\suma\suma\obj\Debug\net6.0\refint\suma.dll
+C:\Users\ander\Desktop\vs.uni\suma\suma\obj\Debug\net6.0\suma.pdb
+C:\Users\ander\Desktop\vs.uni\suma\suma\obj\Debug\net6.0\suma.genruntimeconfig.cache
+C:\Users\ander\Desktop\vs.uni\suma\suma\obj\Debug\net6.0\ref\suma.dll

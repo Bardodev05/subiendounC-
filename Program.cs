@@ -63,6 +63,8 @@ class Program
 {
     static void Main(string[] args)
     {
+        Console.WriteLine("escribe tui nombre");
+        Console.ReadLine();
         Console.WriteLine("Calculadora básica");
         Console.WriteLine("Seleccione una operación:");
         Console.WriteLine("1. Suma");
